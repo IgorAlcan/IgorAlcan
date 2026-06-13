@@ -27,7 +27,7 @@
 
 ## Sobre mim
 
-Sou tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em Python, SQL, QA, Security e construção de projetos de dados. Gosto de aprender construindo: transformar uma ideia em API, dashboard, testes, documentação e um repositório que outra pessoa consiga entender.
+Tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em Python, SQL, QA, Security e construção de projetos de dados. Gosto de aprender construindo: transformar uma ideia em API, dashboard, testes, documentação e um repositório que outra pessoa consiga entender.
 
 Atualmente busco minha primeira oportunidade em tecnologia como trainee ou júnior, principalmente nas áreas de Dados, Python, QA, Security ou Engenharia de IA aplicada.
 
