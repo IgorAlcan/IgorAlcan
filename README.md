@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Igor Alcantara 👋</h1>
 
 <p align="center">
-  <strong>Dados | Python | QA | Security | Engenharia de IA aplicada</strong>
+  <strong>Dados | Python | QA | Security | Automação | Engenharia de IA aplicada</strong>
 </p>
 
 <p align="center">
