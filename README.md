@@ -1,11 +1,11 @@
 <h1 align="center">Olá, sou o Igor Alcantara 👋</h1>
 
 <p align="center">
-  <strong>Dados | Python | QA | Engenharia de IA aplicada</strong>
+  <strong>Dados | Python | QA | Security | Engenharia de IA aplicada</strong>
 </p>
 
 <p align="center">
-  Construo projetos que transformam dados em decisões, com APIs, dashboards, testes e automação.
+  Construo projetos que transformam dados em decisões, com APIs, dashboards, testes, segurança e automação.
 </p>
 
 <p align="center">
@@ -18,18 +18,23 @@
 </p>
 
 <p align="center">
+  <strong>Snake de contribuições</strong><br />
+  <sub>Commit por commit, evoluindo projetos com consistência.</sub>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorAlcan/IgorAlcan/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorAlcan/IgorAlcan/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação snake das contribuições do GitHub" src="https://raw.githubusercontent.com/IgorAlcan/IgorAlcan/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Animação snake das contribuições do GitHub" src="https://raw.githubusercontent.com/IgorAlcan/IgorAlcan/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ## Sobre mim
 
-Sou tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em Python, SQL e construção de projetos de dados. Gosto de aprender construindo: transformar uma ideia em API, dashboard, testes, documentação e um repositório que outra pessoa consiga entender.
+Sou tecnólogo em Análise e Desenvolvimento de Sistemas, com foco em Python, SQL, QA, Security e construção de projetos de dados. Gosto de aprender construindo: transformar uma ideia em API, dashboard, testes, documentação e um repositório que outra pessoa consiga entender.
 
-Atualmente busco minha primeira oportunidade em tecnologia como trainee ou júnior, principalmente nas áreas de Dados, Python, QA ou Engenharia de IA aplicada.
+Atualmente busco minha primeira oportunidade em tecnologia como trainee ou júnior, principalmente nas áreas de Dados, Python, QA, Security ou Engenharia de IA aplicada.
 
 ## Stack
 
@@ -44,6 +49,7 @@ Atualmente busco minha primeira oportunidade em tecnologia como trainee ou júni
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
   <img src="https://img.shields.io/badge/QA-0F766E?style=flat-square&logo=checkmarx&logoColor=white" alt="QA" />
+  <img src="https://img.shields.io/badge/Security-DC2626?style=flat-square&logo=owasp&logoColor=white" alt="Security" />
   <img src="https://img.shields.io/badge/IA_aplicada-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="IA aplicada" />
 </p>
 
@@ -66,6 +72,7 @@ Projeto de portfólio em Python que simula uma mesa simples de análise de valor
 
 - Engenharia de IA aplicada a automações e produtos de dados
 - Boas práticas de APIs, testes e documentação
+- Fundamentos de Security, OWASP e validação de aplicações
 - SQL, análise exploratória e dashboards para tomada de decisão
 - QA e validação de sistemas orientados a dados
 
@@ -79,5 +86,5 @@ Projeto de portfólio em Python que simula uma mesa simples de análise de valor
 ---
 
 <p align="center">
-  Aberto a oportunidades júnior/trainee em Dados, Python, QA e Engenharia de IA aplicada.
+  Aberto a oportunidades júnior/trainee em Dados, Python, QA, Security e Engenharia de IA aplicada.
 </p>
